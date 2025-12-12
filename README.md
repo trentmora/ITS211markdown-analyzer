@@ -4,6 +4,9 @@ Basic Markdown File Analyzer (Python, OOP)
 Author: Trent Mora
 Course: ITS 211 – Introduction to Python Programming
 ---
+
+-= IMPROPERLY FORMATTED -=- SEE ORGINIAL FILE IN PROJECT 5 =-
+
 ASL README HERE: https://youtu.be/dn2CK9qkLqk
 
 This is a simple Python program that scans a given directory for
